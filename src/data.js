@@ -6,6 +6,8 @@ export const projects = [
       "A responsive Car Dealer website",
     image: "./o2autosproject.jpg",
     link: "https://2oautos.azurewebsites.net/",
+    target: "_blank",
+    rel: "noopener noreferrer"
   },
   {
     title: "Infinity Autos",
@@ -14,22 +16,28 @@ export const projects = [
       "Auto Mechanic Website and Blog, built using Html and CSS",
     image: "./infinityautosproject.jpg",
     link: "http://triosdevelopers.com/~O.Ikogho/html/Index.html",
+    target: "_blank",
+    rel: "noopener noreferrer"
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Trios Bookstore",
+    subtitle: "C#, ASP.Net MVC",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "C#, ASP.NET MVC bookstore project with CRUD capabilities",
+    image: "./trios books.jpg",
+    link: "http://triosdevelopers.com/~O.Ikogho/C%23ASP%20/MVCPROJECT_INTROTOC%23ASP_OGHENEBRUME%20IKOGHO.pdf",
+    target: "_blank",
+    rel: "noopener noreferrer"
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Python App",
+    subtitle: "MEAN Stack",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "A clean ecommerce app for selling jackets",
+    image: "./PYTHON.jpg",
+    link: "http://triosdevelopers.com/~O.Ikogho/Python/FINAL%20PROJECT%20PRESENTATION/",
+    target: "_blank",
+    rel: "noopener noreferrer"
   },
 ];
 
